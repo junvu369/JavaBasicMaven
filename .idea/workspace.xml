@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7130cd7-1725-4248-9932-b8a3519dddab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai5_LocatorElement/LocatorsCRM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai6_WebElement/DemoWebElementCRM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai6_WebElement/DemoWebElement_isEnabled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai6_WebElement/DemoWebElement_isSelected.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +30,8 @@
     <setting file="file://$PROJECT_DIR$/src/test/java/com/anhtester/Bai5_LocatorElement/ThuoctinhHTML.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/com/anhtester/Bai5_LocatorElement/XpathTuongDoi_1_5.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/com/anhtester/Bai5_LocatorElement/XpathTuyetDoi.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/anhtester/Bai6_WebElement/DemoWebElementCRM.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/anhtester/Bai6_WebElement/DemoWebElement_isSelected.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/com/anhtester/SeleniumTest.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
@@ -39,20 +43,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ThuoctinhHTML.executor&quot;: &quot;Run&quot;,
-    &quot;Application.XpathTuongDoi_1_5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.XpathTuyetDoi.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DemoWebElementCRM.executor": "Run",
+    "Application.DemoWebElement_3_method_in.executor": "Run",
+    "Application.ThuoctinhHTML.executor": "Run",
+    "Application.XpathTuongDoi_1_5.executor": "Run",
+    "Application.XpathTuyetDoi.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
-  <component name="RunManager" selected="Application.XpathTuongDoi_1_5">
+}]]></component>
+  <component name="RunManager" selected="Application.DemoWebElementCRM">
+    <configuration name="DemoWebElementCRM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.anhtester.Bai6_WebElement.DemoWebElementCRM" />
+      <module name="SeleniumJavaMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anhtester.Bai6_WebElement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoWebElement_isEnabled" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.anhtester.Bai6_WebElement.DemoWebElement_isEnabled" />
+      <module name="SeleniumJavaMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anhtester.Bai6_WebElement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ThuoctinhHTML" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.anhtester.Bai5_LocatorElement.ThuoctinhHTML" />
       <module name="SeleniumJavaMaven" />
@@ -107,6 +139,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoWebElementCRM" />
+        <item itemvalue="Application.DemoWebElement_isEnabled" />
         <item itemvalue="Application.XpathTuongDoi_1_5" />
         <item itemvalue="Application.XpathTuyetDoi" />
         <item itemvalue="Application.ThuoctinhHTML" />
