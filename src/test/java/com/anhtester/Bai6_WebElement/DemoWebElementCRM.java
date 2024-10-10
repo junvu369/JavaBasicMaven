@@ -22,7 +22,7 @@ public class DemoWebElementCRM {
         driver.findElement(By.xpath(LocatorsCRM.inputEmail)).sendKeys("admin123@example.com");
         driver.findElement(By.xpath(LocatorsCRM.inputPassword)).sendKeys("123456");
 //        driver.findElement(By.xpath(LocatorsCRM.inputPassword)).submit(); //Thay cho thao tác ấn Enter
-        
+
         //getCSS values
         System.out.println("Css background-color Login button: "+ driver.findElement(By.xpath(LocatorsCRM.buttonLogin)).getCssValue("background-color"));
         System.out.println("Css border-color Login button: "+ driver.findElement(By.xpath(LocatorsCRM.buttonLogin)).getCssValue("border-color"));
