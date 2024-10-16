@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7130cd7-1725-4248-9932-b8a3519dddab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai7_Webdriver/DemoAddCookie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai7_Webdriver/DemoAdvancedOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai7_Webdriver/DemoBasicOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai7_Webdriver/DemoFindElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai6_WebElement/DemoWebElementCRM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai6_WebElement/DemoWebElementCRM.java" afterDir="false" />
-    </list>
+    <list default="true" id="e7130cd7-1725-4248-9932-b8a3519dddab" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,25 +41,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DemoAddCookie.executor": "Run",
-    "Application.DemoAdvancedOperation.executor": "Run",
-    "Application.DemoBasicOperation.executor": "Run",
-    "Application.DemoFindElements.executor": "Run",
-    "Application.DemoWebElementCRM.executor": "Run",
-    "Application.DemoWebElement_3_method_in.executor": "Run",
-    "Application.ThuoctinhHTML.executor": "Run",
-    "Application.XpathTuongDoi_1_5.executor": "Run",
-    "Application.XpathTuyetDoi.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DemoAddCookie.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoAdvancedOperation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoBasicOperation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoFindElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoWebElementCRM.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoWebElement_3_method_in.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThuoctinhHTML.executor&quot;: &quot;Run&quot;,
+    &quot;Application.XpathTuongDoi_1_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.XpathTuyetDoi.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.DemoAddCookie">
     <configuration name="DemoAddCookie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.anhtester.Bai7_Webdriver.DemoAddCookie" />
