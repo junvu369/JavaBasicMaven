@@ -26,4 +26,7 @@ public class LocatorsCRM {
     public static String headerCustomer = "//span[normalize-space()='Customers Summary']";
 
 
+    //Tasks page
+    public static String menuTasks;
+    public static String buttonNewTask;
 }
