@@ -1,7 +1,6 @@
 package com.anhtester.Bai8;
 
 import com.anhtester.Bai5_LocatorElement.LocatorsCRM;
-import com.anhtester.common.BaseTest;
 import org.openqa.selenium.By;
 
 public class DemoCheckbox extends BaseTest {
@@ -35,4 +34,3 @@ public class DemoCheckbox extends BaseTest {
     }
 }
 
-}

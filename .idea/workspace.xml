@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7130cd7-1725-4248-9932-b8a3519dddab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai8/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai8/DemoCheckbox.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai5_LocatorElement/LocatorsCRM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai5_LocatorElement/LocatorsCRM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai8/DemoCheckbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai8/DemoCheckbox.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +34,7 @@
     <setting file="file://$PROJECT_DIR$/src/test/java/com/anhtester/Bai7_Webdriver/DemoBasicOperation.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/com/anhtester/Bai7_Webdriver/DemoFindElements.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/com/anhtester/Bai8/BaseTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/anhtester/Bai8/DemoCheckbox.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/com/anhtester/SeleniumTest.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
